@@ -26,5 +26,6 @@ how to choose one?
 
 ```
 compare function, stable
+	k3s maybe more suitable
 ```
 
